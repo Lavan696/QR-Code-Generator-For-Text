@@ -1,4 +1,5 @@
 📷 QR Code Generator using Python
+
 This is a simple QR Code Generator built using Python and the qrcode library. It allows users to generate a QR code for any custom text or URL input and saves the result as an image file.
 
 🛠️ Features
